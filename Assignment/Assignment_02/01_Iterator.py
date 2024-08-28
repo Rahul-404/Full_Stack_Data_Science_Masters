@@ -13,6 +13,7 @@ class MyIterator:
             self.current += 1
             return self.current - 1
 
+
 # using iterator
 my_iter = MyIterator(1, 5)
 
