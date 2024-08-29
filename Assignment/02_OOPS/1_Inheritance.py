@@ -17,5 +17,6 @@ class Student(Person):
         super().introduce() # Calling the introduce method of base class
         print(f"My student ID is {self.student_id}")
 
+# Check in action
 obj = Student("Rahul", 25, 65)
 obj.introduce()
