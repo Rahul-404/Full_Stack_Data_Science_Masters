@@ -1,3 +1,5 @@
+import os
+
 # create a sample file for demonstration
 example_file_content = """Line 1
 Line 2
@@ -23,3 +25,6 @@ file_path  = "example_file.txt"
 
 for line in read_file_line_by_line(file_path):
     print(line)
+
+# deleting file we created for demonstration purpose
+os.remove(file_path)
