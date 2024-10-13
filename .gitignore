@@ -135,6 +135,7 @@ Quiz/Questions/
 SQL/Questions/
 ineuron/
 06_Databases/01_SQL/Questions
+15_pytorch/dataset/MNIST/raw
 
 # Spyder project settings
 .spyderproject
