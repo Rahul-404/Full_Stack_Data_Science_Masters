@@ -136,6 +136,7 @@ SQL/Questions/
 ineuron/
 06_Databases/01_SQL/Questions
 15_pytorch/dataset/MNIST/raw
+15_pytorch/my_checkpoint.pth.tar
 
 # Spyder project settings
 .spyderproject
