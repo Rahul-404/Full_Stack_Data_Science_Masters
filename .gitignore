@@ -137,6 +137,9 @@ ineuron/
 06_Databases/01_SQL/Questions
 15_pytorch/dataset/MNIST/raw
 15_pytorch/my_checkpoint.pth.tar
+15_pytorch/dataset/cifar-10-batches-py
+15_pytorch/dataset/archive.zip
+15_pytorch/dataset/cifar-10-python.tar.gz
 
 # Spyder project settings
 .spyderproject
