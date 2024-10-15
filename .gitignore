@@ -142,6 +142,7 @@ ineuron/
 15_pytorch/dataset/cifar-10-python.tar.gz
 06_Databases/01_SQL/CITY_DATABASE.db
 06_Databases/01_SQL/database/worldcities.csv
+.vscode/settings.json
 
 # Spyder project settings
 .spyderproject
