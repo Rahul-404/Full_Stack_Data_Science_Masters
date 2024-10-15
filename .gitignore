@@ -140,6 +140,8 @@ ineuron/
 15_pytorch/dataset/cifar-10-batches-py
 15_pytorch/dataset/archive.zip
 15_pytorch/dataset/cifar-10-python.tar.gz
+06_Databases/01_SQL/CITY_DATABASE.db
+06_Databases/01_SQL/database/worldcities.csv
 
 # Spyder project settings
 .spyderproject
