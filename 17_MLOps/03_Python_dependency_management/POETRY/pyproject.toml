@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "poetry-tips"
+version = "0.2.0"
+description = ""
+authors = ["Rahul Shelke <rahulshelke981@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pytest = "^8.4.1"
+shell = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.memory.api"
